@@ -1,0 +1,30 @@
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.csproj.ResolveComReference.cache
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.KCBFloorForm.resources
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.Properties.Resources.resources
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.csproj.GenerateResource.Cache
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\bin\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\bin\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel\KCBLevel\obj\x86\Debug\KCBLevel.csprojResolveAssemblyReference.cache
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csproj.ResolveComReference.cache
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\bin\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\bin\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csprojResolveAssemblyReference.cache
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.KCBFloorForm.resources
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.Properties.Resources.resources
+C:\Users\sanxio\Desktop\Dissertation\KCB Level App\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csproj.GenerateResource.Cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csproj.ResolveComReference.cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\bin\Debug\KCBLevel.exe
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\bin\Debug\KCBLevel.pdb
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csprojResolveAssemblyReference.cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.KCBFloorForm.resources
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.Properties.Resources.resources
+C:\Users\sanxio\Desktop\Dissertation\Final Works\KCBLevel V2\KCBLevel\obj\x86\Debug\KCBLevel.csproj.GenerateResource.Cache
